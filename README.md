@@ -31,7 +31,7 @@ And here we go, we have this snippet of a script.
 - It has the countdown on a small window, with a huge cancel button on it.
 - 10 seconds before set action, it maximizes the countdown window to give *user* an **action movie slam abort** chance.
 - If computer goes to sleep before zz Cat puts it to sleep, kitty will cancel the countdown and shut itself off silently.
-- You can use it with only keyboard inputs.
+- It is also usable with only keyboard inputs.
 - It kinda looks cute.
 
 ## Usage
