@@ -1,5 +1,5 @@
 <!-- PROJECT LOGO -->
-
+<div align="center">
 <a href="https://gitlab.com/shotwn/zz-cat/">
 <img src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/14297459/bg.avatar.png" alt="Logo" width="80" height="80" />
 </a>
@@ -14,6 +14,8 @@
 <a href="https://gitlab.com/shotwn/zz-cat/issues">Report Bug</a>
 ·
 <a href="https://gitlab.com/shotwn/zz-cat/issues">Request Feature</a>
+
+</div>
 
 ## About
 I like to keep my computer on when going to sleep. What can I say, I like to sleep watching something.
