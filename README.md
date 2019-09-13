@@ -7,7 +7,7 @@
 
 **...is a shutdown timer**
 
-*Don't reinvent the stone. Use the this fluffy tool.*
+*Don't reinvent the stone. Use this fluffy tool.*
 
 <a href="https://gitlab.com/shotwn/zz-cat/issues">Report Bug</a>
 ·
