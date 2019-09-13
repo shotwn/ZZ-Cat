@@ -1,16 +1,20 @@
+#NoTrayIcon
+FileInstall, bg.png, %a_temp%/bg.png
 
-gui, 1: New, , AutoZZZ Power State Timer
+gui, 1: New, , ZZ Cat : Power State Timer
 Gui, 1: Color, 884488
+Gui 1:-Resize -MaximizeBox +ToolWindow
 gui, 1:add, button, x25 y135 h20 w130 gSetToSleep, &Sleep
 gui, 1:add, button, x25 y160 h20 w130 gSetToHibernate, &Hibernate
 gui, 1:add, button, x25 y185 h20 w130 gSetToShutdown, Shut&down
 gui, 1:add, button, x25 y210 h20 w130 gSetToMonitorOff, &Turn Off Monitor
 gui, 1:add, button, x25 y250 h20 w130 gexit, Exit Script
-Gui, 1:Add, Picture, x10 y5 w170 h170 +BackgroundTrans, bg.png
+Gui, 1:Add, Picture, x10 y5 w170 h170 +BackgroundTrans ginfo, %a_temp%/bg.png
 Gui, 1:Add, Text, x0 y115 w180 +center +BackgroundTrans, select an action to schedule
 
-Gui, 2: New, ,Set Duration
+Gui, 2: New, ,Countdown Duration
 Gui, 2: Color, 151515
+Gui 2:-Resize -MaximizeBox +ToolWindow
 Gui, 2:Add, Text, cFFFFFF +center w180 x0 y10,Enter Duration
 Gui, 2:Add, Text, cFFFFFF +center w180 x0 y35,HH   MM   SS
 Gui, 2:Add, Edit, x55 y50 w20 Limit2 Number +center vDurationInHours,
@@ -144,6 +148,11 @@ exit:
   exitapp
 }
 
+info:
+{
+  Run, https://gitlab.com/shotwn/zz-cat
+}
+
 
 milli2hms(milli, ByRef hours=0, ByRef mins=0, ByRef secs=0, secPercision=0)
 {
@@ -175,3 +184,4 @@ emptyToZero(str)
   }
   return str
 }
+
