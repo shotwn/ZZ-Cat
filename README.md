@@ -19,7 +19,7 @@
 I like to keep my computer on when going to sleep. What can I say, I like to sleep watching something.
 But I don't like to keep my computer on sleep all night; that is, if it goes to sleep automatically.
 
-I've always written bat scripts to turn off my PC after certain amount of time. 
+I've always written batch scripts to turn off my PC after certain amount of time. 
 But I always lose them. This time I wanted to write all using autohotkey. 
 I know, I know.. There are dozens of scripts I can choose from after a simple google search but hey ! My AHK "knowledge" required a repeat anyway.
 
