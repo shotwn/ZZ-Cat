@@ -1,11 +1,9 @@
 <!-- PROJECT LOGO -->
 <div align="center">
-<a href="https://gitlab.com/shotwn/zz-cat/">
-<img src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/14297459/bg.avatar.png" alt="Logo" width="200" height="200" />
+<a href="https://gitlab.com/shotwn/zz-cat/"  >
+<img src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/14297459/bg.avatar.png" alt="Logo" width="200" height="200" style="margin-bottom:-20px" />
 </a>
-
 <h3 align="center">zz Cat</h3>
-
 
 **...is a shutdown timer**
 
