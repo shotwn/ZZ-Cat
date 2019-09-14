@@ -1,27 +1,29 @@
 <!-- PROJECT LOGO -->
-
-<a href="https://gitlab.com/shotwn/zz-cat/">
-<img src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/14297459/bg.avatar.png" alt="Logo" width="80" height="80" />
+<div align="center">
+<a href="https://gitlab.com/shotwn/zz-cat/"  >
+<img src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/14297459/bg.avatar.png" alt="Logo" width="200" height="200" style="margin-bottom:-20px" />
 </a>
-
 <h3 align="center">zz Cat</h3>
-
 
 **...is a shutdown timer**
 
-*Don't reinvent the stone. Use the this fluffy tool.*
+*Don't reinvent the stone. Use this fluffy tool.*
 
 <a href="https://gitlab.com/shotwn/zz-cat/issues">Report Bug</a>
 ·
+<a href="https://gitlab.com/shotwn/zz-cat/-/releases">Download</a>
+.
 <a href="https://gitlab.com/shotwn/zz-cat/issues">Request Feature</a>
 
-## About
-I like to keep my computer on when going to sleep. What can I say, I like to sleep watching something.
-But I don't like to keep my computer on sleep all night; that is, if it goes to sleep automatically.
+</div>
 
-I've always written bat scripts to turn off my PC after certain amount of time. 
-But I always lose them. This time I wanted to write all using autohotkey. 
-I know, I know.. There are dozens of scripts I can choose from after a simple google search but hey ! My AHK "knowledge" required a repeat anyway.
+## About
+I like to keep my computer **on** when I am going to sleep. What can I say? I like to fall asleep watching series.
+But I don't like to keep my computer at standby all night; that is, if it goes to standby automatically.
+
+I've always written batch scripts to turn off my PC after certain amount of time. 
+But I always lose them. This time around I wanted to write the script using autohotkey. 
+I know, I know.. There are dozens of scripts I can choose from after a simple google search but hey ! My AHK "knowledge" required a repeat/polish anyway.
 
 And here we go, we have this snippet of a script.
 
@@ -31,7 +33,7 @@ And here we go, we have this snippet of a script.
 - It has the countdown on a small window, with a huge cancel button on it.
 - 10 seconds before set action, it maximizes the countdown window to give *user* an **action movie slam abort** chance.
 - If computer goes to sleep before zz Cat puts it to sleep, kitty will cancel the countdown and shut itself off silently.
-- You can use it with only keyboard inputs.
+- It is also usable with only keyboard inputs.
 - It kinda looks cute.
 
 ## Usage
