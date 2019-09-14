@@ -11,17 +11,19 @@
 
 <a href="https://gitlab.com/shotwn/zz-cat/issues">Report Bug</a>
 ·
+<a href="https://gitlab.com/shotwn/zz-cat/-/releases">Download</a>
+.
 <a href="https://gitlab.com/shotwn/zz-cat/issues">Request Feature</a>
 
 </div>
 
 ## About
-I like to keep my computer on when going to sleep. What can I say, I like to sleep watching something.
-But I don't like to keep my computer on sleep all night; that is, if it goes to sleep automatically.
+I like to keep my computer **on** when I am going to sleep. What can I say? I like to fall asleep watching series.
+But I don't like to keep my computer at standby all night; that is, if it goes to standby automatically.
 
 I've always written batch scripts to turn off my PC after certain amount of time. 
-But I always lose them. This time I wanted to write all using autohotkey. 
-I know, I know.. There are dozens of scripts I can choose from after a simple google search but hey ! My AHK "knowledge" required a repeat anyway.
+But I always lose them. This time around I wanted to write the script using autohotkey. 
+I know, I know.. There are dozens of scripts I can choose from after a simple google search but hey ! My AHK "knowledge" required a repeat/polish anyway.
 
 And here we go, we have this snippet of a script.
 
