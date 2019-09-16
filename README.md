@@ -45,6 +45,6 @@ And here we go, we have this snippet of a script.
 [GoodFreePhotos for the public domain vector image.](https://www.goodfreephotos.com/vector-images/sleeping-kitty-vector-clipart.png.php)
 
 ## FAQ
-* No I don't see cute-ish design as a thread to my masculinity.
+* No I don't see cute-ish design as a threat to my masculinity.
 * I am a dog person but I love cats immensely too. "Sleepy Cat" is a nickname for me, but it was taken already.
 * Yes I like ZZ Top.
