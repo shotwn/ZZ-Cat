@@ -17,6 +17,7 @@
 
 </div>
 
+[![Donate](https://img.shields.io/badge/Donate-Bitcoin-blue)](https://commerce.coinbase.com/checkout/e7c6e558-6a4b-4731-a5f0-87e1efd7b986)
 ## About
 I like to keep my computer **on** when I am going to sleep. What can I say? I like to fall asleep watching series.
 But I don't like to keep my computer at standby all night; that is, if it goes to standby automatically.
