@@ -31,6 +31,7 @@ I know, I know.. There are dozens of scripts I can choose from after a simple go
 And here we go, we have this snippet of a script.
 
 ## Features
+- Compiled to executable, **does not require you to install the AHK.**
 - It can turn **off your monitor**. Take your computer to **Sleep**, **Hibernation** or **Shutdown** states.
 - It has a timer with *seperate hour, minute and second inputs.*
 - It has the countdown on a small window, with a huge cancel button on it.
