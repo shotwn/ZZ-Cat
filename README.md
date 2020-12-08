@@ -9,11 +9,11 @@
 
 *Don't reinvent the stone. Use this fluffy tool.*
 
-<a href="https://gitlab.com/shotwn/zz-cat/issues">Report Bug</a>
+<a href="https://github.com/shotwn/ZZ-Cat/issues">Report Bug</a>
 ·
-<a href="https://gitlab.com/shotwn/zz-cat/-/releases">Download</a>
+<a href="https://github.com/shotwn/ZZ-Cat/releases/latest/download/zz-cat.zip">Download</a>
 .
-<a href="https://gitlab.com/shotwn/zz-cat/issues">Request Feature</a>
+<a href="https://github.com/shotwn/ZZ-Cat/issues">Request Feature</a>
 
 </div>
 
